@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Isira Hansaja from Sri Lanka.<br><br>- 🔭 I’m an Undergraduate of University of Ruhuna.<br>- 📚 I'm currently learning Flutter</p>
+<p align="left">I'm Isira Hansaja from Sri Lanka.<br><br>- 🔭 I’m an Undergraduate of University of Ruhuna.<br>- 📚 I'm currently learning Flutter, React </p>
 
 ###
 
