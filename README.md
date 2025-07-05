@@ -15,6 +15,7 @@
 ###
 
 <div align="left">
+  <p>
   <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" /></a>
   <img width="12" />
   <a href="https://flutter.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /></a>
@@ -40,6 +41,7 @@
   <a href="https://www.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></a>
   <img width="12" />
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
+    </p>
 </div>
 
 ###
