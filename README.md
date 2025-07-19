@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iSiRaH.iSiRaH&"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSiRaH&label=Profile%20views&color=0e75b6&style=flat" alt="iSiRaH" /> </p>
 </div>
 
 ###
